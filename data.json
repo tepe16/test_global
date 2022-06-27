@@ -1,0 +1,115 @@
+ {
+
+    "08/01/2021": {
+
+        "14:04:13": {
+
+            "Kompleks TNI AD": {
+
+                "camera1": {
+
+                    "person": {
+
+                        "up": 0,
+
+                        "down": 0,
+
+                        "stay": 5
+
+                    }
+
+                },
+
+                "camera2": {
+
+                    "person": {
+
+                        "up": 0,
+
+                        "down": 0,
+
+                        "stay": 0
+
+                    }
+
+                }
+
+            }
+
+        },
+
+        "14:04:18": {
+
+            "Kompleks TNI AD": {
+
+                "camera1": {
+
+                    "person": {
+
+                        "up": 0,
+
+                        "down": 0,
+
+                        "stay": 0
+
+                    }
+
+                },
+
+                "camera2": {
+
+                    "person": {
+
+                        "up": 0,
+
+                        "down": 0,
+
+                        "stay": 0
+
+                    }
+
+                }
+
+            }
+
+        },
+
+        "14:04:23": {
+
+            "Kompleks TNI AD": {
+
+                "camera1": {
+
+                    "person": {
+
+                        "up": 0,
+
+                        "down": 0,
+
+                        "stay": 0
+
+                    }
+
+                },
+
+                "camera2": {
+
+                    "person": {
+
+                        "up": 0,
+
+                        "down": 0,
+
+                        "stay": 0
+
+                    }
+
+                }
+
+            }
+
+        }
+
+    }
+
+}
